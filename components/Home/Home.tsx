@@ -1,5 +1,5 @@
 const Home = () => {
-  return <div className="overflow-hidden">Enter</div>;
+  return <div className="overflow-hidden ">Enter</div>;
 };
 
 export default Home;
